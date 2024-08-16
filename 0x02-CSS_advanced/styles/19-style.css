@@ -391,6 +391,7 @@ html {
        --section-header-padding: 0 0 3rem;
        --section-body-padding: 0 0 3rem;
        --section-footer-padding: 3rem 0 0;
+       --section-tagline-margin: 0;
        --footer-padding: 5rem 0 1rem;
 
        --nav-item-font-family: var(--font-family-title);
@@ -400,7 +401,7 @@ html {
        --nav-item-display: inline-block;
        --nav-item-margin: 0 0 3rem 0;
        --nav-item-link-hover: var(--color-primary);
-       --section-tagline-margin: 0;
+       
        
      }
      
@@ -536,7 +537,7 @@ html {
      }
 
      .footer-copyright{
-	margin: none;
+	margin: 0;
 	font-size: var(--font-size-small);
 	color: var(--text-color);
      }
