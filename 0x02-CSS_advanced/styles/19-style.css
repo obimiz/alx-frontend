@@ -520,7 +520,7 @@ html {
      }
      .row ul{
 	margin: 0;
-	padding: none;
+	padding: 0;
 	list-style-type: none;
      }
 
