@@ -564,10 +564,7 @@
 	padding: 0.5rem;
       }
       [data-section-theme=“dark”]{
-	/* Redefine the custom property text-color to color-white */
 	--text-color: var(--color-white);
-	  /* Redefine the custom property section-title-color to color-white */
 	--section-title-color: var(--color-white);
-	 /* Set the background to the variable color-black */
 	background-color: var(--color-black);
       }
